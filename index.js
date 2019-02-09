@@ -3,3 +3,9 @@ module.exports = function removeSpace(string) {
     return string.replace(/\s/g, "");
   };
 
+  export default class DateUtils {
+       DateTest(params) {
+        
+        console.log("DateTest");
+    }
+  }
