@@ -1,13 +1,12 @@
 {
     "name": "@tsr1983/jsutils",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "description": "Javascript helper functions",
     "license": "MIT",
     "repository": "tsr1983/jsutils",
-    "main": "jsutils.js",
+    "main": "index.js",
     "keywords": [
-        "javascript helper",
+        "jshelper",
         "tsr1983"
-       
     ]
 }
